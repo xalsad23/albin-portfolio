@@ -10,7 +10,7 @@ export default function Hero() {
         Bygger digitala lösningar med <span className="text-blue-500">struktur</span> och <span className="text-indigo-400">driv</span>.
       </h2>
       <p className="text-lg md:text-xl text-slate-300 max-w-2xl mb-8 leading-relaxed">
-        Hej! Jag är Albin Sadiku, nyexaminerad systemvetare från Örebro universitet[cite: 1] med erfarenhet av fullstack-utveckling (.NET, React, SQL)[cite: 1, 2, 3] och ett starkt ledarskap från näringslivet[cite: 1].
+        Hej! Jag är Albin Sadiku, nyexaminerad systemvetare från Örebro universitet med erfarenhet av fullstack-utveckling (.NET, React, SQL) och ett starkt ledarskap från näringslivet.
       </p>
       <div className="flex flex-wrap gap-4">
         <a 
